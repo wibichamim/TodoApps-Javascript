@@ -110,6 +110,7 @@ select {
     width: 10rem;
     cursor: pointer;
     padding: 1rem;
+    font-family: 'Poppins', sans-serif;
 }
 .select::after {
     content: "\25BC";
